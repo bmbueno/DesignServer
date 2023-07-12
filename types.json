@@ -1,0 +1,4 @@
+{
+    "button": ["name", "width", "height", "cornerRadius", "cornerSmoothing", "strokeWeight", "strokeAlign", "background", "backgroundColor", "fills", "fill", 
+    "paddingLeft", "paddingRight", "paddingTop", "paddingBottom"]
+}
